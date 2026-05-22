@@ -13,6 +13,11 @@ This project was created as a learning exercise to explore the fundamentals of V
 - Basic styling and responsive design
 - Building and running a project with Vite
 
+## Live Demo
+
+The To-Do App is hosted on Vercel!  
+👉 [View Live Demo on Vercel](https://to-do-app-opal-seven.vercel.app/)
+
 ## Features
 
 - Add new to-do items
